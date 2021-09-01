@@ -21,7 +21,7 @@ We would like you to use one of the datasets we are familiar with: [Mapspam](htt
 
 ### The challenge
 
-We would like you to analyse the data in relation to the areas of interest in the ares.geojson file and contextualize it.
+We would like you to analyse the data in relation to the areas of interest in the [areas.geojson](./areas.geojson) file and contextualize it.
 
 At minimum we would like to see at least one map and a statistical chart.
 
