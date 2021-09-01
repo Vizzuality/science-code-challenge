@@ -5,7 +5,7 @@ The purpouse of this challenge is to help us see:
 * your current technical abilities
 * your thought process
 * your ability to use data to support an argument or tell a story
-* And for you: to have a glimpse of the actual type of technical work de develop
+* And for you: to have a glimpse of the actual type of technical work we develop
 
 Please feel-free to surprise us, and showcase any skills that you think are important!
 
