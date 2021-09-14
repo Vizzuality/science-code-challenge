@@ -33,7 +33,7 @@ We would like you to analyse the data in relation to the areas of interest in th
 As a minimum we would like to see one map and a statistical chart.
 
 * ### **The tools:**
-Use whatever tolls you are comfortable with or you think are the best for the job, but keep in mind that the analysis should be reproducible and we will expect to see a script with the steps that you have followed in your analysis.
+Use whatever tools you are comfortable with or you think are the best for the job, but keep in mind that the analysis should be reproducible and we will expect to see a script with the steps that you have followed in your analysis.
 
 ## How should I deliver the results?
 Add your results to your Github profile in a Jupyter notebook. Please upload your results 2 days prior to your interview.
