@@ -36,13 +36,12 @@ As a minimum we would like to see one map and a statistical chart.
 Use whatever tools you are comfortable with or you think are the best for the job, but keep in mind that the analysis should be reproducible and we will expect to see a script with the steps that you have followed in your analysis.
 
 ## How should I deliver the results?
-Add your results to your Github profile in a Jupyter notebook. Please upload your results 2 days prior to your interview.
+Add your results to your Github profile in a Jupyter notebook. Please submit your ideas within one week (max). This will give us enough time toreview your challenge with the rest of the team beore the next interview.
 
 ## How much time should I spend?
-There is no time limit but we wouldn't want you to spend too much time working on this challenge, we understand you will probably have other things to do. We think that 4-8 hours should allow you to explore the dataset and create the minimum visualizations (chart + map).
-
+There is no time limit but we wouldn't want you to spend too much time working on this challenge, we understand you will probably have other things to do. We think that 4-8 hours should allow you to explore the dataset and create the minimum visualizations (chart + map). 
 ## What if I have questions?
-Email us your questions at info@vizzuliaty.com
+Email us any questions and we will answer as soon as possible
 
 ## What will happen in the interview?
 * In the upcoming interview we’ll focus on your coding challenge submission. We will expect you to explain your analysis to an audience that will include members of the Science team but also one or two people from other functional areas (Design, Front-End, Back-End, Project Manager,..). We will ask you any clarifying questions we might have.
